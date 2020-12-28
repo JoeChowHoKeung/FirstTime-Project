@@ -1,0 +1,30 @@
+in this project, I am going to use the dataset "Electronic Products and Pricing Data" from data.world.
+
+in overview, this dataset is recorded the pricing information about 7,000 electronics, such as brand, category, merchant. the description mentioned the dataset has the potential to develop model related to pricing strategy.
+
+about the data mining procedure, i planned to implement my project in accordance with cross idustry standard process for data mining which included six consecutive phases:
+
+1. Business understanding
+2. data understanding
+3. data preparation
+4. model building
+5. testing and evaluation
+6. deployment
+
+at the business understanding phases:
+	the business objective, data mining goals will be determined regarding to the situation which is potentially affecting data mining project
+	
+at the data understanding phases:
+	the collected data will be descripted, explored, and verified with data visualization tool.
+	
+at the data preparation phases:
+	this phases will complete selection of observation and variable which are involved to decision making. meanwhile, the pahses also perform the data cleaning and variable aggregation
+	
+at the modeling technique:
+	i will conduct the model selection to seek the optimal solution for the project problem
+	#1 prediction
+	#2 clustering
+	#3 association rule
+
+at the testing and evaluation:
+	using different validation tool, i will evaluate different model accuracy to select the optimal model.
